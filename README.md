@@ -1,4 +1,4 @@
-#Desafio - Vaga - Pessoa Desenvolvedora FullStack PHP
+*Desafio - Vaga - Pessoa Desenvolvedora FullStack PHP
 
 O sistema foi desenvolvido em Codeigniter 4 e PostgreSQL.
 
